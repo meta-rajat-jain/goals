@@ -1,0 +1,27 @@
+.show {
+    display: block;
+}
+.hide {
+    display: none;
+}
+.align-tags {
+    margin-left: 10px;
+}
+.align-in-modal {
+    margin-top: 10px;
+    width: 100px;
+    display: inline-flex;
+    align-items: center; 
+}
+.display-tags-inline {
+    display: inline-block;
+    margin: 5px;
+}
+/* .display-in-table {
+
+} */
+
+.display-in-table:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

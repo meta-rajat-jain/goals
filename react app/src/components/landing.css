@@ -1,0 +1,10 @@
+.header-btns {
+    margin-left: 15px;
+    padding: 5px;
+}
+.show {
+    display: block;
+}
+.hide {
+    display: none;
+}
